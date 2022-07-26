@@ -1,19 +1,6 @@
-# routerexample
+# Vue ile burç tahmini sayfası - routerexample
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![projenin içeriğini aşağıdaki resim ile görebilirsiniz.](Picture/readme%20i%C3%A7in.PNG)
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
